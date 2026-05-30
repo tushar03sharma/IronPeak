@@ -97,7 +97,7 @@ function Programs() {
 
           <div className="flex flex-col gap-4">
             <div className="flex items-center gap-3">
-              <span className="block w-8 h-[2px] bg-[#d4f247]" />
+              <span className="block w-8 `h-[2px]` bg-[#d4f247]" />
               <p className="text-[#d4f247] uppercase tracking-[0.3em] text-xs">What We Offer</p>
             </div>
             <h2
