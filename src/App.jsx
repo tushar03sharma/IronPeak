@@ -3,6 +3,7 @@ import Hero from "./components/Hero"
 import Programs from "./components/Programs"
 import Trainers from "./components/Trainers" 
 import Pricing from "./components/Pricing" 
+import Footer from "./components/Footer"
 function App() {
   return (
     <div>
@@ -12,6 +13,7 @@ function App() {
       <Programs />
       <Trainers />
       <Pricing />
+      <Footer />
     </div>
   )
 }
